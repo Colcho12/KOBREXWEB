@@ -40,3 +40,24 @@ body{
     cursor: pointer;
     color: rgb(150, 30, 30);
 }
+
+footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    background-color: lightgrey;
+    font-family: "Montserrat", sans-serif;
+}
+
+.footerfinal{
+    text-align: center;
+}
+
+.copyright{
+    font-size: 8;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+
