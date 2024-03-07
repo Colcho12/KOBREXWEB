@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}   
+
+.NavSup{
+    background-color: rgb(250, 214, 148);
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logos{
+    justify-content: left;
+    
+}
+
+.search{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+    
+
+}
+
+.Opciones{
+    margin-top: 0;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menuItem{
+    margin-right: 50px;
+    cursor: pointer;
+    color: rgb(150, 30, 30);
+}
